@@ -3,8 +3,3 @@ A simple desktop based application to maintain railway database. It also has fun
 trains.
 
 railway.sql file contains the tables and data required to run the project.
-
-Technologies used:
-Programming Language: Java
-IDE: Eclipse
-Backend (Database): MySQL
